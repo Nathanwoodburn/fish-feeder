@@ -5,7 +5,7 @@ Components
 * NodeMCU ESP8266 Development Board
 * Stepper Motor and Driver (I used a 28BYJ-48 5V Stepper Motor with ULN2003 Driver Module)
 * External Button (Optional used for feeding without sending WIFI command)
-* Film Canistor to hold Fish Food (Optional)
+* Film Canister to hold Fish Food (Optional)
 
 3D Files are avaliable as [stl](https://www.thingiverse.com/thing:4821940) or [Fusion 360 files](https://ql.nathan3dprint.tk/fish)
 
