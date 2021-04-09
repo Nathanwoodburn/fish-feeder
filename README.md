@@ -4,7 +4,7 @@ Arduino WIFI Fish Feeder controlled via Google Assistant
 Components
 * NodeMCU ESP8266 Development Board
 * Stepper Motor and Driver (I used a 28BYJ-48 5V Stepper Motor with ULN2003 Driver Module)
-* External Button (Optional Used For Feeding Without WIFI Command)
+* External Button (Optional used for feeding without sending WIFI command)
 
 3D Files are avaliable [here](https://ql.nathan3dprint.tk/fish) if using this model you also need a film canistor to hold the fish food.
 
