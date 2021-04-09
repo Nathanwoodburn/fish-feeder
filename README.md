@@ -6,6 +6,8 @@ Components
 * Stepper Motor and Driver (I used a 28BYJ-48 5V Stepper Motor with ULN2003 Driver Module)
 * External Button (Optional Used For Feeding Without WIFI Command)
 
+3D Files are avaliable [Here](https://ql.woodburn.tk/fish)
+
 # Instructions
 
 ### ThingSpeak Instrucions
