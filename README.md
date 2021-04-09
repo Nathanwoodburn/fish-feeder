@@ -6,7 +6,7 @@ Components
 * Stepper Motor and Driver (I used a 28BYJ-48 5V Stepper Motor with ULN2003 Driver Module)
 * External Button (Optional used for feeding without sending WIFI command)
 
-3D Files are avaliable [here](https://ql.nathan3dprint.tk/fish) if using this model you also need a film canistor to hold the fish food.
+3D Files are avaliable as [stl](https://www.thingiverse.com/thing:4821940) or [Fusion 360 files](https://ql.nathan3dprint.tk/fish) if using this model you also need a film canistor to hold the fish food.
 
 # Instructions
 
