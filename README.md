@@ -1,5 +1,5 @@
 # Fish Feeder
-Arduino WIFI Fish Feeder
+Arduino WIFI Fish Feeder controlled via Google Assistant
 
 Components
 * NodeMCU ESP8266 Development Board
