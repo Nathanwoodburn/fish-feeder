@@ -21,7 +21,7 @@ WiFiClient client;
 #define C 12
 #define D 14
 
-#define NUMBER_OF_STEPS_PER_REV 520 // Number of steps to perform each feed
+#define NUMBER_OF_STEPS_PER_REV 520 // Number of steps per feed
 
 
 
@@ -92,6 +92,7 @@ void feedfish() { //Feed Fish Code
     onestep(); // Step motor
     i++; //increase i by 1
   }
+  writemt(0, 0, 0, 0);
 
 }
 void writemt(int a, int b, int c, int d) { // Control stepper outputs
